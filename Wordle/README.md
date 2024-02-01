@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Wordle\proj1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/Cjenkin31/AndroidAppDevelopmentLabs/blob/main/Wordle/proj1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
