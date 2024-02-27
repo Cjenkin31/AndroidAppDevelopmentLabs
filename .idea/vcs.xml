@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AndroidAppDevelopment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArticleSearch-Pt2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/and102-lab3-starter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/and102-lab4-starter" vcs="Git" />
   </component>
