@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-
+![](<https://github.com/Cjenkin31/AndroidAppDevelopmentLabs/blob/main/BitFitPart2/proj6.gif>)
 Custom Script
 
 ## Notes
