@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sleep_list"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="SleepList" />
+
+    <item
+        android:id="@+id/sleep_dashboard"
+        android:icon="@drawable/baseline_inventory_24"
+        android:title="SleepDashboard" />
+</menu>
