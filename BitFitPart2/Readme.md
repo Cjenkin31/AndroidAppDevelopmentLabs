@@ -1,8 +1,8 @@
-# Android Project 5 - *BitFitPart 1*
+# Android Project 6 - *BitFitPart2*
 
 Submitted by: **Christopher Jenkin**
 
-**BitFitPart 1** is a health metrics app that allows users to track their sleep 
+**BitFitPart2** is a health metrics app that allows users to track ... [TODO] 
 
 Time spent: **X** hours spent in total
 
@@ -10,31 +10,29 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): Sleep
-- [X] **There is a "create entry" UI that prompts users to make their daily entry**
-- [X] **New entries are saved in a database and then updated in the RecyclerView**
-- [X] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [X] **Use at least 2 Fragments**
+- [X] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [X] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [ ] **Create a UI for tracking averages and trends in metrics**
-- [ ] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] **Added a delete records button**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 
-![](https://github.com/Cjenkin31/AndroidAppDevelopmentLabs/blob/main/BitFitPart1/proj5.gif)
+<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-own script
+
+Custom Script
+
 ## Notes
 
 Describe any challenges encountered while building the app.
